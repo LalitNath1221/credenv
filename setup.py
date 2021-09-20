@@ -6,5 +6,5 @@ setup(name='credenv',
     author='Lalit Nath',
     author_email='lalitgosai2002@gmail.com',
     url='https://github.com/LalitNath1221/credenv',
-    packages=['cerdenv'],
+    packages=['credenv'],
     zip_safe=False)
