@@ -5,5 +5,6 @@ setup(name='credenv',
     description='package to read .env credentials',
     author='Lalit Nath',
     author_email='lalitgosai2002@gmail.com',
-    packages=['cerenv'],
+    url='https://github.com/LalitNath1221/credenv',
+    packages=['cerdenv'],
     zip_safe=False)
